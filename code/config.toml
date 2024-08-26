@@ -1,0 +1,5 @@
+[filepaths]
+folder_path = "C://Users/Gareth/transit_gravity_model_data/"
+places_filepath = "IPN_GB_2023/IPN_GB_2023.csv"
+eng_wal_pop_filepath = "ons_bua_2011_pop.csv"
+scot_pop_filepath = "2012-pop-est-sett-local-main-tab2a.csv"
